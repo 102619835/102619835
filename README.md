@@ -7,10 +7,10 @@
 <h3 align="center">Software Engineering Student from Vietnam 🇻🇳</h3>
 
 ## 👨‍💻 About Me
-I'm Phuc Dang, a Swinburne University student specializing in **Flutter**, **Firebase**, and full-stack development. Passionate about building user-focused apps and IoT solutions, I’m eager to contribute to innovative projects like Focus Bear.
+I'm Phuc Dang, a Swinburne University student specialising in **Flutter**, **Firebase**, and full-stack development. Passionate about building user-focused apps and IoT solutions, I’m eager to contribute to innovative projects with scalability and maintenance.
 
 ## 🔭 Key Projects
-- **Finney App**: Flutter-based financial tracker with Firebase and localization (English/Bengali, BDT/AUD).
+- **Finney App**: Flutter-based financial tracker with Firebase and localisation (English/Bengali, BDT/AUD).
 - **IoT Smart Greenhouse**: Arduino and Python Flask system using DHT11/HC-SR04 sensors for real-time monitoring.
 - **Web Apps**: Building scalable solutions with JavaScript, React.js, and Node.js.
 
