@@ -18,11 +18,6 @@ I'm Phuc Dang, a Swinburne University student specializing in **Flutter**, **Fir
 - **BAP Software Internship**: Developed Angular frontend for enterprise applications.
 - Proficient in **Flutter**, **React.js**, **Node.js**, **Firebase**, **C++**, and **LaTeX** for technical documentation.
 
-## 📫 Connect
-- **Email**: [Your email here]
-- **LinkedIn**: [Your LinkedIn URL here]
-- **GitHub**: Check my pinned repos!
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
