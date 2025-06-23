@@ -7,17 +7,30 @@
 <h3 align="center">Software Engineering Student from Vietnam 🇻🇳</h3>
 
 ## 👨‍💻 About Me
-I'm Phuc Dang, a Swinburne University student specialising in **Flutter**, **Firebase**, and full-stack development. Passionate about building user-focused apps and IoT solutions, I’m eager to contribute to innovative projects with scalability and maintenance.
+Hi, I’m **Phuc Dang**, a Software Engineering (Honours) student at Swinburne University, with hands-on experience in **full-stack web and mobile development**.  
+I enjoy building user-focused applications with **React.js**, **Flutter**, **Node.js**, **PHP**, and **Firebase**, and have a strong interest in scalable solutions that improve real-world business operations.
 
 ## 🔭 Key Projects
-- **Finney App**: Flutter-based financial tracker with Firebase and localisation (English/Bengali, BDT/AUD).
-- **IoT Smart Greenhouse**: Arduino and Python Flask system using DHT11/HC-SR04 sensors for real-time monitoring.
-- **Web Apps**: Building scalable solutions with JavaScript, React.js, and Node.js.
+- **Finney Financial Management App** — A Flutter-based mobile app with **Firebase Authentication** and **Firestore**, supporting financial tracking and budgeting.
+- **Dang Good Cafe Website** — Responsive website built with **React.js** to showcase products and enhance customer experience.
+- **Online Grocery Web Application** — Full-stack e-commerce site using **PHP**, **JavaScript**, and **MySQL** with JWT-based secure authentication.
 
 ## 💼 Experience
-- **BAP Software Internship**: Developed Angular frontend for enterprise applications.
-- Proficient in **Flutter**, **React.js**, **Node.js**, **Firebase**, **C++**, and **LaTeX** for technical documentation.
+- **Software Engineering Intern — BAP Software**  
+  Built responsive UI components and optimised backend APIs with **React.js**, **Node.js**, and **PostgreSQL** for financial applications.
+- Regular contributor to personal and freelance projects across web and mobile platforms.
 
+## 🛠️ Technologies & Tools
+**Languages**: JavaScript, TypeScript, Dart, PHP, C#, Python  
+**Frameworks**: React.js, Flutter, Node.js, Express.js, Angular  
+**Databases**: Firebase Firestore, MySQL, MongoDB, PostgreSQL  
+**Tools**: Git, GitHub, Firebase, AWS, LaTeX  
+**Areas**: Full-Stack Development, UI/UX, Authentication Systems, RESTful APIs
+
+## 🌟 Currently Learning
+- Advanced **Flutter animations**
+- Cloud services with **AWS**
+  
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
